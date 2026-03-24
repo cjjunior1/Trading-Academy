@@ -28,7 +28,7 @@ const testimonials = [
     course: "Curso Intermedio",
   },
   {
-    name: "Andrés Rivera",
+    name: "Andrés Ortega",
     role: "Ingeniero",
     country: "Perú",
     image: "https://cdn.abacus.ai/images/fa1703ff-801f-4333-9c24-9c142466ad56.png",
